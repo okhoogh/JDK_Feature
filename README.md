@@ -1,1 +1,12 @@
-# JDK_Feature
+# JDK
+LEARN THE NEW FEATURE OF JDK
+
+## FINISHED
+- JDK 8
+- JDK 9
+- JDK 10
+
+## WORKING
+- JDK 11
+- JDK 12
+
