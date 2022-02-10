@@ -12,6 +12,7 @@
         <module>JDK10</module>
         <module>JDK9</module>
         <module>JDK8</module>
+        <module>JDK11</module>
     </modules>
 
     <properties>
